@@ -1,0 +1,18 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+*.jks
+*.keystore
+# never commit game data
+*.iso
+*.wbfs
+*.rvz
+*.wia
+*.dol
+**/sys/boot.bin
+**/sys/main.dol
